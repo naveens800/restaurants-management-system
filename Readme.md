@@ -10,7 +10,7 @@
 
 ### 2.PostgreSql
 
-### 3.Djano
+### 3.Django
 
 ### 4.Django-rest_framework
 
