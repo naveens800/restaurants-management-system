@@ -13,3 +13,9 @@
 ### 3.Djano
 
 ### 4.Django-rest_framework
+
+
+## About the repository structure
+### api--django app
+### restaurants--django project container 
+### media--store's images used in api
